@@ -1,4 +1,4 @@
-this is a new line 1
-this is a newline 2
-this is a  newline 3
-
+print("This is Python code")
+print("This is Python code")
+print("This is Python code")
+print("This is Python code")
